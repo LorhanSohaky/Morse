@@ -19,9 +19,9 @@ SOFTWARE.
 */
 
 #include <stdio.h>
-#include "Morse.h"
+#include <Morse.h>
 
 int main(){
-  morse("CASA");
+  morse("HELLO WORLD!");
   return 0;
 }
